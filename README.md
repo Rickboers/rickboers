@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-made maxxing.dev & exammakerai.com
+made https://www.maxxing.dev & https://www.exammakerai.com
 
 making many more
 

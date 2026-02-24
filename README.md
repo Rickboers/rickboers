@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-made https://www.maxxing.dev & https://www.exammakerai.com
-
-making many more
-
+made 
+- [maxxing.dev](https://www.maxxing.dev)
+- [exammakerai.com](https://www.exammakerai.com)
 
 
 <!--
